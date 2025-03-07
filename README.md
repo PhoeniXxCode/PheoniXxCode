@@ -3,7 +3,7 @@
 
 <br>
 
-- :office: &nbsp;I'm currently Studying **Computer engineering**
+- :office: &nbsp;I'm currently Studying **Computer engineering from MU**
 - :seedling: &nbsp;I’m currently learning **python**
 - :speech_balloon: &nbsp;I like to talk about **cyber security**, **digital forensics**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)

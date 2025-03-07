@@ -1,4 +1,4 @@
-<b><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=24&duration=2800&pause=2000&color=242B2E&center=false&vCenter=true&width=940&height=50&lines=👋+Hello+there!+I'm+Shruti+baviskar!"></b>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=24&duration=2800&pause=2000&color=242B2E&center=false&vCenter=true&width=940&height=50&lines=👋+<b>Hello</b>+<b>there!</b>+<b>I'm</b>+<b>Shruti+baviskar!</b>">
 <h2><img src="borderseperator.gif"></h2>
 
 <br>

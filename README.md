@@ -50,12 +50,6 @@
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96">
-      <a href="#PhoeniXxCode-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Data_Structure_Logo.svg" width="48" height="48" alt="Data Structure" />
-      </a>
-      <br>Data Structure
-    </td>
   </tr>
 </table>
 

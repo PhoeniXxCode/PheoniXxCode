@@ -1,5 +1,7 @@
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=FF5733&center=true&vCenter=true&width=600&height=70&lines=👋+Hi+there!+I'm+Shruti+Baviskar.;💻+Aspiring+Software+Engineer.;🚀+Learning+AI%2C+ML+%26+Web+Development.;🌟+Let's+build+something+amazing!">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hello+from+Shruti!;Welcome+to+my+GitHub!">
+</p>
 
 - :office: &nbsp;I'm currently Studying **Computer engineering from MU**
 - :seedling: &nbsp;I’m currently learning **python**

@@ -73,6 +73,7 @@ https://platane.github.io/snk/ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaljadhav99&" alt="PhoeniXxCode" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&show_icons=true&locale=en&layout=compact" alt="PhoeniXxCode" /></p><br><br><br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KastroV&layout=compact&theme=radical)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PhoeniXxCode&color=blue)

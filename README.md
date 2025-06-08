@@ -71,4 +71,3 @@
 ![Snake animation](https://github.com/vitorLostadaC/PhoeniXxCode/blob/output/github-contribution-grid-snake.svg)
 https://platane.github.io/snk/ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaljadhav99&" alt="PhoeniXxCode" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&locale=en" alt="PhoeniXxCode" /></p>

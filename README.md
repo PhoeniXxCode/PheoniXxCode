@@ -70,3 +70,5 @@
 <!--                                                                                                                                                 
 ![Snake animation](https://github.com/vitorLostadaC/PhoeniXxCode/blob/output/github-contribution-grid-snake.svg)
 https://platane.github.io/snk/ -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaljadhav99&" alt="PhoeniXxCode" /></p>
+

@@ -63,13 +63,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoeniXxCode&theme=github" />
   </p>
 </div>
+## 📈 GitHub Stats
 
-<div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=PhoeniXxCode&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-</div>
-</details>
-
+![shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true)
 <!--                                                                                                                                                 
 ![Snake animation](https://github.com/vitorLostadaC/PhoeniXxCode/blob/output/github-contribution-grid-snake.svg)
 https://platane.github.io/snk/ -->

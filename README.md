@@ -64,14 +64,6 @@
 </table>
 <h2><img src="borderseperator.gif"></h2>
 
-<details>
-<summary>:zap: GitHub Stats</summary>
-</br>
-<div align="justify">
-  <p align="left" width="auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoeniXxCode&theme=github" />
-  </p>
-</div>
 ## 📈 GitHub Stats
 
 ![shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true)

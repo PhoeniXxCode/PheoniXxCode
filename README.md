@@ -69,6 +69,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PhoeniXxCode&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 </div>
 </details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiBaviskar&show_icons=true&theme=radical&hide=prs"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiBaviskar&theme=radical"/>
+</p>
 
 <!--                                                                                                                                                 
 ![Snake animation](https://github.com/vitorLostadaC/PhoeniXxCode/blob/output/github-contribution-grid-snake.svg)

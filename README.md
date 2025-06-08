@@ -1,6 +1,6 @@
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=F7A400&center=true&vCenter=true&width=700&height=60&lines=👋+Hi+there!+I'm+Shruti+Baviskar.;💻+Aspiring+Software+Engineer.;🚀+Learning+AI%2C+ML+%26+Web+Development.;🌟+Let's+build+something+amazing!">
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=FF5733&center=true&vCenter=true&width=600&height=70&lines=👋+Hi+there!+I'm+Shruti+Baviskar.;💻+Aspiring+Software+Engineer.;🚀+Learning+AI%2C+ML+%26+Web+Development.;🌟+Let's+build+something+amazing!">
+
 - :office: &nbsp;I'm currently Studying **Computer engineering from MU**
 - :seedling: &nbsp;I’m currently learning **python**
 - :speech_balloon: &nbsp;I like to talk about **cyber security**, **digital forensics**

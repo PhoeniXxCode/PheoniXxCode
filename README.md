@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hello+from+Shruti!;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hello+i+am+Shruti!;Welcome+to+my+GitHub!">
 </p>
 
 - :office: &nbsp;I'm currently Studying **Computer engineering from MU**

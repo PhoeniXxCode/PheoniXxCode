@@ -80,4 +80,4 @@ https://platane.github.io/snk/ -->
 </p>
 
 <p align="center">Thank you for visiting my profile! 🚀</p>
-<img src="assets/bottom_banner.png" alt="Bottom Banner">
+<img src="https://raw.githubusercontent.com/PhoeniXxCode/PhoeniXxCode/PhoeniXxCode/assets/bottom_banner.png" alt="Bottom Banner">

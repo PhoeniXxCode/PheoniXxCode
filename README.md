@@ -72,7 +72,7 @@
 https://platane.github.io/snk/ -->
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode&" alt="PhoeniXxCode" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&show_icons=true&locale=en&layout=compact" alt="PhoeniXxCode" /></p><br><br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&show_icons=true&locale=en&layout=compact" alt="PhoeniXxCode" /></p><br><br><br>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" /></a>

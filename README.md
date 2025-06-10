@@ -79,4 +79,4 @@ https://platane.github.io/snk/ -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=username.username" alt="visitors"/>
 </p>
 
-Thank you for visiting my profile! 🚀
+<p align="center">Thank you for visiting my profile! 🚀</p>

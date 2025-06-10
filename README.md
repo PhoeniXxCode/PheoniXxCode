@@ -2,9 +2,7 @@
      alt="Bottom Up Banner" 
      style="position: fixed; top: 0; width: 100%;">
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hello+i+am+Shruti!;Welcome+to+my+GitHub!">
-</p>
+  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=F70000&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I+am+Shruti!+✨;🚀+Welcome+to+my+GitHub!+🔥"> </p>
 
 - :office: &nbsp;I'm currently Studying **Computer engineering from MU**
 - :seedling: &nbsp;I’m currently learning **python**

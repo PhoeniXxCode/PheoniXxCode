@@ -3,13 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hello+i+am+Shruti!;Welcome+to+my+GitHub!">
 </p>
 
-![Top Banner](assets/your_top_banner.png) <!-- Replace with your top banner image -->
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.username" alt="visitors"/>
-</p>
+![Top Banner](assets/your_top_banner.png) <!-- Replace with your top banner image --
 
 ![Header Image](assets/your_profile_header.png) <!-- Replace with your header/profile image -->
 <a href="https://www.python.org/">

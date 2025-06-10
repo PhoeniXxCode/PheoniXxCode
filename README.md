@@ -1,24 +1,24 @@
-<img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_up.svg" alt="Bottom Up Banner" style="position: fixed; top: 0; width: 100%;">
+<img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_up.svg" alt="Top Banner" style="position: fixed; top: 0; width: 100%;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=F70000&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I'm+Shruti!+✨;🚀+Welcome+to+my+GitHub!+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=F70000&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I'm+Shruti!+✨;🚀+Welcome+to+my+Digital+Playground!+🔥">
 </p>
 
-### About Me 👋
+### 🙋‍♀️ About Me
 
-- 👩‍🎓 Studying **Computer Engineering at MU**
-- 🌱 Learning **Python, Cybersecurity, and Cloud Technologies**
-- 💬 Passionate about **cyber security, digital forensics, and ethical hacking**
-- ✉️ Happy to **help** - ask me anything!
-- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/shruti-baviskar)**
-- 💻 I love **coding and problem-solving**
-- 🎨 I enjoy **sketching and digital art**
+Hey there! I'm Shruti, a Computer Engineering student diving deep into the world of code and cybersecurity. Think of this GitHub as my digital playground where I experiment, learn, and build cool stuff.
 
-![](https://komarev.com/ghpvc/?username=PhoeniXxCode)
+- 👩‍🎓 Currently hacking my way through **Computer Engineering at MU** 💻
+- 🌱 Always learning: **Python, Cybersecurity (Ethical Hacking!), and Cloud Technologies** ☁️
+- 💬 I geek out over **cyber security, digital forensics, and the ethics of hacking** 🕵️‍♀️
+- ✉️ Got questions?  Need help?  Slide into my DMs! 😉
+- 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/shruti-baviskar)** - I'm always up for a chat!
+- 💡 Passionate about **coding, problem-solving, and turning ideas into reality** ✨
+- 🎨 When I'm not coding, you can find me **sketching, creating digital art, or lost in a good book** 📚
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Arsenal
 
-> Languages, tools, and technologies I enjoy working with.
+> A collection of my favorite tools, languages, and technologies.  Consider it my digital Swiss Army knife!
 
 <table align="center">
   <tr>
@@ -67,50 +67,4 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-  </tr>
-    <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true" alt="Shruti's GitHub stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode&" alt="PhoeniXxCode" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&show_icons=true&locale=en&layout=compact" alt="PhoeniXxCode" /></p>
-
-<br clear="left"/>
-
-### Badges 🏆
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active Status"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" alt="Python Language"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.username" alt="Visitors"/>
-</p>
-
-### Let's Connect! 🤝
-
-<p align="center">Thanks for visiting! Feel free to reach out! 👋</p>
-
-<img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_down.svg" alt="Bottom Banner" style="position: fixed; bottom: 0; width: 100%;">
+      <a href="#tech"> ⬤

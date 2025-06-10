@@ -67,4 +67,56 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#tech"> ⬤
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+         <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/Kali%20Linux-4E5052?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+      </a>
+      <br>Kali Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true" alt="Shruti's GitHub stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode&" alt="PhoeniXxCode" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&show_icons=true&locale=en&layout=compact" alt="PhoeniXxCode" /></p>
+
+<br clear="left"/>
+
+### 🏆 Badges & Achievements
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active Status"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" alt="Python Language"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.username" alt="Visitors"/>
+</p>
+
+### 🤝 Let's Connect!
+
+<p align="center">Thanks for stopping by!  Feel free to connect and let's build something awesome together!  🚀</p>
+
+<img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_down.svg" alt="Bottom Banner" style="position: fixed; bottom: 0; width: 100%;">

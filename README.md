@@ -63,13 +63,6 @@
          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
         </a>GITHUB
        </td>
-       
-    <td align="center" width="96">
-      <a href="#PhoeniXxCode-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
 </tr>
 </table>
 <h2><img src="borderseperator.gif"></h2>

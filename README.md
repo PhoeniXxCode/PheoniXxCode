@@ -12,7 +12,7 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 - 🌱 Always learning: **Python, Cybersecurity (Ethical Hacking!), and Cloud Technologies** ☁️
 - 💬 I geek out over **cyber security, digital forensics, and the ethics of hacking** 🕵️‍♀️
 - ✉️ Got questions?  Need help?  Slide into my DMs! 😉
-- 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/shruti-baviskar)** - I'm always up for a chat!
+- 🔗 Let's connect on **[LinkedIn]((https://www.linkedin.com/in/shruti-baviskar-919343318/))** - I'm always up for a chat!
 - 💡 Passionate about **coding, problem-solving, and turning ideas into reality** ✨
 - 🎨 When I'm not coding, you can find me **sketching, creating digital art, or lost in a good book** 📚
 

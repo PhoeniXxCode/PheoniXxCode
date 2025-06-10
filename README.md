@@ -70,7 +70,7 @@
 <!--                                                                                                                                                 
 ![Snake animation](https://github.com/vitorLostadaC/PhoeniXxCode/blob/output/github-contribution-grid-snake.svg)
 https://platane.github.io/snk/ -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode&" alt="PhoeniXxCode" /></p><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode&" alt="PhoeniXxCode" /></p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" /></a>

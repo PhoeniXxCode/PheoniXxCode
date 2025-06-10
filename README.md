@@ -1,13 +1,6 @@
-
+![Banner or Profile image](path/to/your/banner.png)
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hello+i+am+Shruti!;Welcome+to+my+GitHub!">
-</p>
-![Banner or Profile image](path/to/your/banner.png)
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.username" alt="visitors"/>
 </p>
 
 - :office: &nbsp;I'm currently Studying **Computer engineering from MU**
@@ -78,6 +71,11 @@
 ![Snake animation](https://github.com/vitorLostadaC/PhoeniXxCode/blob/output/github-contribution-grid-snake.svg)
 https://platane.github.io/snk/ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaljadhav99&" alt="PhoeniXxCode" /></p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Main%20Language-Python-blue" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.username" alt="visitors"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&show_icons=true&locale=en&layout=compact" alt="PhoeniXxCode" /></p><br><br><br>
 Thank you for visiting my profile! 🚀

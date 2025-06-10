@@ -80,5 +80,8 @@ https://platane.github.io/snk/ -->
 </p>
 
 <p align="center">Thank you for visiting my profile! 🚀</p>
-<img src="bottom_banner.png" alt="Bottom Banner">
+<img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_down.svg" 
+     alt="Bottom Banner" 
+     style="position: fixed; bottom: 0; width: 100%;">
+
 

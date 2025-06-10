@@ -80,3 +80,4 @@ https://platane.github.io/snk/ -->
 </p>
 
 <p align="center">Thank you for visiting my profile! 🚀</p>
+![Bottom Banner](assets/bottom_banner.png)                                                      

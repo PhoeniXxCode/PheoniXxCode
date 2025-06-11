@@ -6,6 +6,8 @@
 
 ---
 
+<div style="background-color: #F5F5F5; padding: 20px; border-radius: 10px">
+
 ### 🙋‍♀️ About Me
 
 Hey there! I'm Shruti, a Computer Engineering student diving deep into the world of code and cybersecurity. Think of this GitHub as my digital playground where I experiment, learn, and build cool stuff.
@@ -18,11 +20,15 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 - 💡 Passionate about **coding, problem-solving, and turning ideas into reality** ✨  
 - 🎨 When I'm not coding, you can find me **sketching, creating digital art, or lost in a good book** 📚  
 
+</div>
+
 ---
 
 ### 🛠️ My Tech Arsenal
 
-> A collection of my favorite tools, languages, and technologies.  Consider it my digital Swiss Army knife!
+> A collection of my favorite tools, languages, and technologies. Consider it my digital Swiss Army knife!
+
+<div style="background-color: #FFF0F5; padding: 10px; border-radius: 10px">
 
 <table align="center">
   <tr>
@@ -66,11 +72,13 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
   </tr>
 </table>
 
+</div>
+
 ---
 
 ### ⚙️ GitHub Stats
 
-<div align="center">
+<div align="center" style="background-color: #E6F7FF; padding: 10px; border-radius: 10px">
   <img src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode" />

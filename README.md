@@ -30,7 +30,7 @@ Hey there! I'm Shruti, a passionate Computer Engineering student exploring the r
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python"/><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" width="48" alt="MySQL"/><br>MySQL
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL.svg" width="48" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" alt="JavaScript"/><br>JavaScript

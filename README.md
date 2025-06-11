@@ -35,7 +35,13 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48"/><br>Python</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL.svg" width="48"/><br>MySQL</td>
+  <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/640px-MySQL_Dolphin.jpg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"/><br>JavaScript</td>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48"/><br>Java</td>
   </tr>

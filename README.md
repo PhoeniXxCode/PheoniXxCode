@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_up.svg" alt="Top Banner" style="position: fixed; top: 0; width: 100%;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2500&pause=1200&color=F70000&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I'm+Shruti!+✨;🚀+Welcome+to+my+Digital+Playground!+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2500&pause=1200&color=8E44AD&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I'm+Shruti!+✨;🚀+Welcome+to+my+Digital+Playground!+🔥">
 </p>
 
 

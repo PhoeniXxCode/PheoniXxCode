@@ -6,8 +6,6 @@
 
 ---
 
-<div style="background-color: #fef6ff; padding: 25px; border-radius: 12px;">
-
 ### 🙋‍♀️ About Me
 
 Hey there! I'm Shruti, a passionate Computer Engineering student exploring the realms of code and cybersecurity. This GitHub is my digital playground where I experiment, learn, and create exciting projects.
@@ -20,11 +18,7 @@ Hey there! I'm Shruti, a passionate Computer Engineering student exploring the r
 - 💡 Passionate about **coding, problem-solving, and turning ideas into reality** ✨  
 - 🎨 When I'm not coding, you can find me **sketching, creating digital art, or lost in a good book** 📚
 
-</div>
-
 ---
-
-<div style="background-color: #f0faff; padding: 20px; border-radius: 12px;">
 
 ### 🛠️ My Tech Arsenal
 
@@ -72,44 +66,34 @@ Hey there! I'm Shruti, a passionate Computer Engineering student exploring the r
   </tr>
 </table>
 
-</div>
-
 ---
-
-<div style="background-color: #fff0f0; padding: 20px; border-radius: 12px;">
 
 ### ⚙️ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&layout=compact"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&layout=compact"/>
 </div>
 
 ---
 
-<div style="text-align: center;">
-
 ### 🏆 Badges & Achievements
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active Status"/>
   <img src="https://img.shields.io/badge/Main%20Language-Python-blue" alt="Python Language"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PhoeniXxCode.PhoeniXxCode" alt="Visitor Count"/>
 </p>
 
-</div>
-
 ---
-
-<div style="text-align: center;">
 
 ### 🤝 Let's Connect!
 
+<p align="center">
 Thanks for stopping by! Feel free to connect, and let's build something awesome together! 🚀
-
-</div>
+</p>
 
 <img src="https://raw.githubusercontent.com/PhoeniXxCode/PheoniXxCode/main/Bottom_down.svg" alt="Bottom Banner" style="position: fixed; bottom: 0; width: 100%;">

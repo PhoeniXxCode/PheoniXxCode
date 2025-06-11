@@ -34,29 +34,80 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48"/><br>Python</td>
-  <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
       <a href="#tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/640px-MySQL_Dolphin.jpg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
-
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48"/><br>Java</td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48"/><br>C</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48"/><br>HTML</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>Git</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br>GitHub</td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1024px-C_Programming_Language.svg.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
   </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><br>Linux</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white"/><br>VS Code</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Kali%20Linux-4E5052?style=flat-square&logo=kalilinux&logoColor=white"/><br>Kali Linux</td>
+    <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+         <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://img.shields.io/badge/Kali%20Linux-4E5052?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+      </a>
+      <br>Kali Linux
+    </td>
   </tr>
 </table>
+
+
 
 </div>
 

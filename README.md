@@ -6,7 +6,7 @@
 
 ---
 
-<div style="background-color: #F5F5F5; padding: 20px; border-radius: 10px">
+<div align="center" style="background-color: #fef6ff; padding: 25px; border-radius: 12px;">
 
 ### 🙋‍♀️ About Me
 
@@ -15,10 +15,10 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 - 👩‍🎓 Currently hacking my way through **Computer Engineering at MU** 💻  
 - 🌱 Always learning: **Python, Cybersecurity (Ethical Hacking!), and Cloud Technologies** ☁️  
 - 💬 I geek out over **cyber security, digital forensics, and the ethics of hacking** 🕵️‍♀️  
-- ✉️ Got questions?  Need help?  Slide into my DMs! 😉  
+- ✉️ Got questions? Need help? Slide into my DMs! 😉  
 - 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/shruti-baviskar-919343318/)** – I'm always up for a chat!  
 - 💡 Passionate about **coding, problem-solving, and turning ideas into reality** ✨  
-- 🎨 When I'm not coding, you can find me **sketching, creating digital art, or lost in a good book** 📚  
+- 🎨 When I'm not coding, you can find me **sketching, creating digital art, or lost in a good book** 📚
 
 </div>
 
@@ -28,7 +28,7 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 
 > A collection of my favorite tools, languages, and technologies. Consider it my digital Swiss Army knife!
 
-<div style="background-color: #FFF0F5; padding: 10px; border-radius: 10px">
+<div style="background-color: #f0faff; padding: 20px; border-radius: 12px;">
 
 <table align="center">
   <tr>
@@ -78,12 +78,12 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 
 ### ⚙️ GitHub Stats
 
-<div align="center" style="background-color: #E6F7FF; padding: 10px; border-radius: 10px">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true" />
+<div align="center" style="background-color: #fff0f0; padding: 20px; border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhoeniXxCode&show_icons=true&hide_title=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoeniXxCode"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhoeniXxCode&layout=compact"/>
 </div>
 
 ---

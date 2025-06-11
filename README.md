@@ -150,14 +150,8 @@ Hey there! I'm Shruti, a Computer Engineering student diving deep into the world
 <p>Thanks for stopping by! Feel free to connect and let's build something awesome together! 🚀</p>
 
 <p>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" alt="Twitter" />
-  </a>
   <a href="https://linkedin.com/in/shruti-baviskar-919343318/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/yourhandle">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" alt="Instagram" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Gmail"/>

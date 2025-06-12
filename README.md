@@ -8,31 +8,34 @@
 
 ---
 
-<div style="background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+<div style="background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
 
-<h2 align="center">🙋‍♀️ About Me</h2>
+  <h2 align="center" style="color: #8E44AD;">🙋‍♀️ About Me</h2>
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        Hey there! I'm <strong>Shruti</strong>, a Computer Engineering student diving deep into the world of code and cybersecurity. Think of this GitHub as my digital playground where I experiment, learn, and build cool stuff.
-      </p>
-      <ul>
-        <li>👩‍🎓 Currently studying <strong>Computer Engineering at MU</strong> 💻</li>
-        <li>🌱 Learning: <strong>Python, Cybersecurity (Ethical Hacking!), Cloud Technologies</strong> ☁️</li>
-        <li>💬 Interests: <strong>Cybersecurity, Digital forensics, Ethical hacking</strong> 🕵️‍♀️</li>
-        <li>✉️ Reach me anytime – I’m happy to connect! 😉</li>
-        <li>🔗 <strong><a href="https://www.linkedin.com/in/shruti-baviskar-919343318/">LinkedIn</a></strong></li>
-        <li>💡 Passionate about <strong>coding, problem-solving, and creative ideas</strong> ✨</li>
-        <li>🎨 Hobbies: <strong>Sketching, digital art, reading</strong> 📚</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="350" style="border-radius: 16px;">
-    </td>
-  </tr>
-</table>
+  <table style="width: 100%; border: none;">
+    <tr>
+      <td style="width: 60%; vertical-align: top;">
+        <p>
+          Hey there! I'm <strong>Shruti</strong>, a Computer Engineering student diving deep into the world of code and cybersecurity. Think of this GitHub as my digital playground where I experiment, learn, and build cool stuff.
+        </p>
+        <ul>
+          <li>👩‍🎓 Studying <strong>Computer Engineering at MU</strong></li>
+          <li>🌱 Learning: <strong>Python, Cybersecurity (Ethical Hacking!), Cloud Technologies</strong></li>
+          <li>💬 Interests: <strong>Cybersecurity, Digital Forensics, Ethical Hacking</strong></li>
+          <li>✉️ Happy to connect and collaborate anytime!</li>
+          <li>🔗 <strong><a href="https://www.linkedin.com/in/shruti-baviskar-919343318/" target="_blank">LinkedIn</a></strong></li>
+          <li>💡 Passionate about <strong>coding, problem-solving, and creative ideas</strong></li>
+          <li>🎨 Hobbies: <strong>Sketching, Digital Art, Reading</strong></li>
+        </ul>
+      </td>
+      <td style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="320" style="border-radius: 16px; box-shadow: 0 0 12px rgba(0,0,0,0.1); margin-left: 20px;">
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 </div>
 

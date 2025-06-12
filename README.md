@@ -12,19 +12,34 @@
 
 ---
 
-### 🙋‍♀️ About Me
+<div style="background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
 
-Hey there! I'm Shruti, a Computer Engineering student diving deep into the world of code and cybersecurity. Think of this GitHub as my digital playground where I experiment, learn, and build cool stuff.
+<h2 align="center">🙋‍♀️ About Me</h2>
 
-- 👩‍🎓 Currently studying **Computer Engineering at MU** 💻  
-- 🌱 Learning: **Python, Cybersecurity (Ethical Hacking!), Cloud Technologies** ☁️  
-- 💬 Interests: **Cyber security, Digital forensics, Ethical hacking** 🕵️‍♀️  
-- ✉️ Reach me anytime – I’m happy to connect! 😉  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/shruti-baviskar-919343318/)**  
-- 💡 Passionate about **coding, problem-solving, and creative ideas** ✨  
-- 🎨 Hobbies: **Sketching, digital art, reading** 📚
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        Hey there! I'm <strong>Shruti</strong>, a Computer Engineering student diving deep into the world of code and cybersecurity. Think of this GitHub as my digital playground where I experiment, learn, and build cool stuff.
+      </p>
+      <ul>
+        <li>👩‍🎓 Currently studying <strong>Computer Engineering at MU</strong> 💻</li>
+        <li>🌱 Learning: <strong>Python, Cybersecurity (Ethical Hacking!), Cloud Technologies</strong> ☁️</li>
+        <li>💬 Interests: <strong>Cybersecurity, Digital forensics, Ethical hacking</strong> 🕵️‍♀️</li>
+        <li>✉️ Reach me anytime – I’m happy to connect! 😉</li>
+        <li>🔗 <strong><a href="https://www.linkedin.com/in/shruti-baviskar-919343318/">LinkedIn</a></strong></li>
+        <li>💡 Passionate about <strong>coding, problem-solving, and creative ideas</strong> ✨</li>
+        <li>🎨 Hobbies: <strong>Sketching, digital art, reading</strong> 📚</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="350" style="border-radius: 16px;">
+    </td>
+  </tr>
+</table>
 
----
+</div>
+
 
 ### 🛠️ My Tech Arsenal
 

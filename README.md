@@ -94,6 +94,12 @@
       <img src="https://img.shields.io/badge/Kali%20Linux-4E5052?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
       <br>Kali Linux
     </td>
+    <td align="center" width="96">
+  <a href="#tech">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="HTML5" />
+  </a>
+  <br>HTML5
+</td>
   </tr>
 </table>
 

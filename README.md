@@ -5,6 +5,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2500&pause=1200&color=8E44AD&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I'm+Shruti!+✨;🚀+Welcome+to+my+Digital+Playground!+🔥">
 </div>
+
 ---
 
 <div style="background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
